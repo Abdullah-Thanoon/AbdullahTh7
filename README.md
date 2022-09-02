@@ -24,7 +24,7 @@ I'm enthusiastic about everything in the Computers' World.
 <br />
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
-<a href="mailto:Khalid.a.tuma@gmail.com"><b>send me an email</b></a>.
+<a href="mailto:abdullah.t.younis@gmail.com"><b>send me an email</b></a>.
 <br />
 <br />
 
