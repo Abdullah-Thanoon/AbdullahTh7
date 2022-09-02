@@ -2,7 +2,7 @@
 <div align="center">
 <h2> Hi There, Welcome to my Github profile!</h2>
 <br>
-<a href="www.linkedin.com/in/abdullah-thanoon-71413a244" >
+<a href="www.linkedin.com/in/abdullah-thanoon" >
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="[https://twitter.com/Abdullah_Thanon]" target="_blank">
