@@ -16,7 +16,8 @@
 I'm a Web Developer and Computer Engineering student at University of Mosul / College of Engineering, developing and implementing solutions using a range of technologies and programming languages.
 <br />
 
-I'm currently based in **[duhok, Iraq.]([https://www.google.com/maps/place/Erbil/@36.1974139,43.9389233,12z/data=!3m1!4b1!4m5!3m4!1s0x400722fe13443461:0x3e01d63391de79d1!8m2!3d36.190073!4d43.9930303](https://goo.gl/maps/mrZCcNgAw31SLkHd7))**
+I'm currently based in **[duhok, Iraq.](https://www.google.com/maps/place/Dihok/@36.8544595,42.9248686,12z/data=!3m1!4b1!4m13!1m7!3m6!1s0x400722fe13443461:0x3e01d63391de79d1!2sErbil!3b1!8m2!3d36.190073!4d43.9930303!3m4!1s0x40088dc9f9b9c571:0xf62e38c72158c89b!8m2!3d36.8632101!4d42.988472]
+([https://goo.gl/maps/mrZCcNgAw31SLkHd7](https://goo.gl/maps/Kb3KtsSxuD8qdNZP8)))**
 
 <br />
 I'm enthusiastic about everything in the Computers' World.
